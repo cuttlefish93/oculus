@@ -130,6 +130,7 @@ body {
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: bottom center;
+	padding-bottom: 50px;
 }
 
 .title {
@@ -365,7 +366,7 @@ body {
 	margin: 0 auto;
 	left: 0;
 	right: 0;
-	/* animation: line-text 6s linear 1s infinite; */
+	animation: line-text 6s linear 1s infinite;
 }
 
 @keyframes line-text {
